@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.simpleframework.core.BeanContainer;
-
+//add 
 public class DependencyInjectorTest {
     @DisplayName("依赖注入doIoc")
     @Test
